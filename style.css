@@ -454,7 +454,7 @@ z-index: -1;
     }
     .rou{
         flex-direction: column;
-        margin:auto;
+        margin:-25px;
     }
     .row .col{
         margin:20px auto;
@@ -474,7 +474,8 @@ z-index: -1;
             max-width: 90%;
             }
             .contact{
-                padding: 50px;
+                padding: 40px;
+                margin-left:20px;
             }
             .vamsi{
                 flex-direction: column;
