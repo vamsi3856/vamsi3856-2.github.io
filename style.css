@@ -411,7 +411,8 @@ z-index: -1;
 @media only screen and (max-width:890px){
     .navbaar{
         padding: 40px;;
-        background-color:#000015;
+        background-color:#020202;
+        justify-content: center;
     }
     .menu-btn{
         display:block;
