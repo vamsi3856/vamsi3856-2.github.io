@@ -493,6 +493,16 @@ z-index: -1;
                 color:orange;
                 font-weight:300;
              }
+    .c-form .inp span{
+                position:absolute;
+                left:0;
+                padding:5px 0;
+                font-size:10px;
+                margin:10px 0;
+                pointer-events:none;
+                transition:0.5s;
+                color:#666;
+             }
 
 }
 img{
